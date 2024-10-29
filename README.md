@@ -18,11 +18,17 @@ Student 3:SPI230879 Mary Ann Calleja
 
 ## Project Details:
 [Project Plan](./ProjectDetails.md)
+
 [Literature Review](./LiteratureReview.md)
+
 [Survey Design](./SurveyDesign.md)
+
 [Data Analysis](./DataAnalysis.md)
+
 [Research Ethics Approval](./ResearchEthicsApproval.md)
+
 [Research Proposal](./ResearchProposal.md)
+
 [Project Reflection](./ProjectReflection.md)
 
 
