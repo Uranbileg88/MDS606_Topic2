@@ -2,7 +2,8 @@
 
 # Overview of the project
 
-Research topic:
+Research topic:Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber attacks.
+
 
 Hypothesis:
 
