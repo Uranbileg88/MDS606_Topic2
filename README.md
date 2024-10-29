@@ -19,7 +19,7 @@ Student 3:SPI230879 Mary Ann Calleja
 ## Project Details:
 [Project Plan](./ProjectDetails.md)
 
-[Literature Review](./LiteratureReview.md)
+[Literature Review](LiteratureReview.md)
 
 [Survey Design](./SurveyDesign.md)
 
