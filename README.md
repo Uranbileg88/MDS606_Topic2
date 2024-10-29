@@ -8,7 +8,9 @@ Hypothesis:
 
 ## Details of the group members:
 Student 1:SPI230889 Uranbileg Batsaikhan
+
 Student 2:SPI230805 Darolin Vinisha
+
 Student 3:SPI230879 Mary Ann Calleja
 
 ## Project Details:
