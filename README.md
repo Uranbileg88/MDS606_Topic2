@@ -1,11 +1,13 @@
-# MDS606_Topic2
-
 # Overview of the project
 
-Research topic:Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber attacks.
+This is the research project journal of Group 2 for SPI MDS606 Data Science Research and Ethics.
+
+Research topic:
+Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber attacks.
+
+## Project Description
 
 Research Question:
-
 
 Hypothesis:
 
@@ -30,6 +32,8 @@ Student 3:SPI230879 Mary Ann Calleja
 [Research Proposal](ResearchProposal.md)
 
 [Project Reflection](ProjectReflection.md)
+
+[Progress_Assessment_by_Lien](Progress_Assessment_by_Lien.md)
 
 
 
