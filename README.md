@@ -8,7 +8,10 @@ Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machi
 ## Project Description
 
 Research Question:
-How does AI improve the ability to predict and prevent zero-day attacks?
+
+1. How does AI improve the ability to predict and prevent zero-day attacks?
+
+2. How can machine learning algorithms be leveraged to develop an effective threat detection system that enhances cybersecurity by identifying and mitigating potential cyber threats in real-time?
 
 Hypothesis: Machine learning algorithms significantly improve the prediction of emerging cyber threats by analyzing patterns in historical attack data
 
