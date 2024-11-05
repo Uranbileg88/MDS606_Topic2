@@ -9,15 +9,11 @@ Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machi
 
 Research Question:
 
-1. How does AI improve the ability to predict and prevent zero-day attacks?
-
-2. How can machine learning algorithms be leveraged to develop an effective threat detection system that enhances cybersecurity by identifying and mitigating potential cyber threats in real-time?
+1. How can machine learning algorithms be leveraged to develop an effective threat detection system that enhances cybersecurity by identifying and mitigating potential cyber threats in real-time?
 
 Hypothesis: 
 
-1. Machine learning algorithms significantly improve the prediction of emerging cyber threats by analyzing patterns in historical attack data.
-
-2. Machine learning algorithms, when properly trained and integrated into cybersecurity systems, can significantly enhance the effectiveness of real-time threat detection by improving accuracy, reducing false positives, and enabling faster identification and mitigation of potential cyber threats.
+1. Machine learning algorithms, when properly trained and integrated into cybersecurity systems, can significantly enhance the effectiveness of real-time threat detection by improving accuracy, reducing false positives, and enabling faster identification and mitigation of potential cyber threats.
 
 ## Details of the group members:
 Student 1:SPI230889 Uranbileg Batsaikhan
