@@ -8,8 +8,10 @@ Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machi
 ## Project Description
 
 Research Question:
-
+To what extent does the integration of AI and machine learning technologies enhance the effectiveness of cybersecurity systems in detecting and preventing cyber attacks compared to traditional security measures?
 Hypothesis:
+
+Organizations implementing AI-based cybersecurity solutions experience significantly fewer successful cyber attacks and faster threat detection compared to those using traditional security measures.
 
 ## Details of the group members:
 Student 1:SPI230889 Uranbileg Batsaikhan
