@@ -15,6 +15,10 @@ Hypothesis:
 
 1. Machine learning algorithms, when properly trained and integrated into cybersecurity systems, can significantly enhance the effectiveness of real-time threat detection by improving accuracy, reducing false positives, and enabling faster identification and mitigation of potential cyber threats.
 
+2. The integration of AI in cybersecurity systems leads to a measurable reduction in false positive alerts compared to traditional security methods.
+
+3. 
+
 ## Details of the group members:
 Student 1:SPI230889 Uranbileg Batsaikhan
 
