@@ -8,12 +8,10 @@ Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machi
 ## Project Description
 
 ### Research Question:
-
-1. How can machine learning algorithms be leveraged to develop an effective threat detection system that enhances cybersecurity in real-time?
+How can machine learning algorithms be leveraged to develop an effective threat detection system that enhances cybersecurity in real-time?
 
 ### Hypothesis: 
-
-1. Machine learning algorithms, when properly trained and integrated into cybersecurity systems, can significantly enhance the effectiveness of real-time threat detection.
+Machine learning algorithms, when properly trained and integrated into cybersecurity systems, can significantly enhance the effectiveness of real-time threat detection.
 
 ### Research Objective:
 
