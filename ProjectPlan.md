@@ -1,6 +1,6 @@
 1. Abstract
 
-The increasing number of cyber threats has highlighted the need for more effective and adaptive cybersecurity solutions. This research investigates how Artificial Intelligence (AI) and Machine Learning (ML) algorithms can be leveraged to enhance real-time threat detection in cybersecurity systems. The study hypothesizes that properly trained and integrated ML models can significantly improve the accuracy and responsiveness of threat detection mechanisms. The primary objective is to design, implement, and evaluate a machine learning-based system capable of identifying and assessing cyber threats in real time. This paper utilizes ML algorithms for their suitability in real-time threat detection, optimizing model training for improved detection accuracy, and assessing the system’s performance in dynamic and evolving threat environments. Through this work, we aim to contribute to the development of more effective cybersecurity systems that can rapidly adapt to and mitigate emerging threats.
+The increasing number of cyber threats has highlighted the need for more effective and adaptive cybersecurity solutions. This research investigates how Artificial Intelligence (AI) and Machine Learning (ML) algorithms can be leveraged to enhance real-time threat detection in cybersecurity systems. The study hypothesizes that properly trained and integrated ML models can significantly improve the accuracy and responsiveness of threat detection mechanisms. The primary objective is to design, implement, and evaluate a machine learning-based system capable of identifying and assessing cyber threats in real-time. This paper utilizes ML algorithms for their suitability in real-time threat detection, optimizing model training for improved detection accuracy, and assessing the system’s performance in dynamic and evolving threat environments. Through this work, we aim to contribute to the development of more effective cybersecurity systems that can rapidly adapt to and mitigate emerging threats.
 
 
 2. Introduction and Background
@@ -32,5 +32,7 @@ While it is true that any system, including AI and ML, can be vulnerable to expl
 References
 
 [1]	A. K. Ghosh, C. Michael, and M. Schatz. A real-time intrusion detection system based on learning program behavior. In Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), volume 1907, pages 93–109. Springer, 2000.
+
 [2]	Hrishitva Patel. The future of cybersecurity with artificial intelligence (AI) and machine learning (ML). preprints.org, 2023.
+
 [3]	Nisha  Rawindaran,   Ambikesh  Jayal,   and  Edmond  Prakash.   Exploration of the impact of cybersecurity awareness on small and medium enterprises
