@@ -1,6 +1,6 @@
 1.	Research Topic:
    
-Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber attacks.
+Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber-attacks.
 
 Cybersecurity has become a critical concern in today's increasingly digital world, as the frequency and sophistication of cyberattacks continue to rise. The need for real-time, adaptive security systems capable of detecting and responding to evolving threats is more urgent than ever. Traditional methods, such as signature-based detection, often struggle to identify novel or complex attacks, creating a significant gap in defense mechanisms. This is where Artificial Intelligence (AI) and Machine Learning (ML) can play a transformative role.
 
@@ -31,10 +31,18 @@ This hypothesis can be evaluated by testing the system's ability to detect new, 
    
 
 4.	Identify Data Sources and Collection Methods:
-•	Outline the sources of data you intend to use for your research (e.g., public datasets, proprietary data, or data to be collected).
-•	Describe the methods you will use to collect or access this data.
 
-5.	Describe Your Data Analysis Approach:
+Sources of Data
+For this research on machine learning-based threat detection in cybersecurity, several sources of data will be used to train, test, and evaluate the proposed models. These data sources will include publicly available datasets, proprietary data, and potentially data collected specifically for the study.
+
+KDD Cup 1999 and NSL-KDD are public datasets that can be directly accessed and downloaded from their respective repositories or research institutions’ websites. These datasets are well-documented, with predefined labels for various types of attacks, and can be used to train and evaluate initial machine learning models.
+
+KDD Cup 1999 Data: This is a widely used dataset in cybersecurity research, containing simulated network traffic data with labels for different types of attacks (DoS, Probe, U2R, and R2L). It will serve as a benchmark for evaluating machine learning models for threat detection.
+
+NSL-KDD: A refined version of the KDD Cup dataset, it aims to address some of the inherent issues of the original, making it suitable for training machine learning models while avoiding biases from duplicate records.
+
+
+6.	Describe Your Data Analysis Approach:
    
 Briefly outline the data analysis methods or techniques you plan to use in your project (e.g., statistical analysis, machine learning models, etc.). Explain how these methods will help address your research question.
 
