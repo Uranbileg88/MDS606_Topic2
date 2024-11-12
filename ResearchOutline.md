@@ -42,7 +42,7 @@ KDD Cup 1999 Data: This is a widely used dataset in cybersecurity research, cont
 NSL-KDD: A refined version of the KDD Cup dataset, it aims to address some of the inherent issues of the original, making it suitable for training machine learning models while avoiding biases from duplicate records.
 
 
-6.	Describe Your Data Analysis Approach:
+5.	Data Analysis Approach:
    
 Briefly outline the data analysis methods or techniques you plan to use in your project (e.g., statistical analysis, machine learning models, etc.). Explain how these methods will help address your research question.
 
