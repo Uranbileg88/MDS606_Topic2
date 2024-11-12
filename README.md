@@ -30,7 +30,7 @@ Student 3:SPI230879 Mary Ann Calleja
 
 ## Project Details:
 
-[Research Outline](Research Outline.md)
+[Research Outline](ResearchOutline.md)
 
 [Project Plan](ProjectPlan.md)
 
