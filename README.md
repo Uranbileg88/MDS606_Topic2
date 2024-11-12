@@ -29,6 +29,9 @@ Student 2:SPI230805 Darolin Vinisha
 Student 3:SPI230879 Mary Ann Calleja
 
 ## Project Details:
+
+[Research Outline](Research Outline.md)
+
 [Project Plan](ProjectPlan.md)
 
 [Literature Review](LiteratureReview.md)
