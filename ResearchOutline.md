@@ -1,6 +1,4 @@
-Instructions:
-
-1.	Select a Research Topic:
+1.	Research Topic:
    
 Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber attacks.
 
@@ -10,11 +8,11 @@ The integration of AI and ML into cybersecurity represents a promising frontier,
 
 Through this study, the goal is to contribute to the development of more resilient cybersecurity systems that leverage AI and ML to provide proactive, continuous protection against the growing and increasingly complex array of cyber threats. This area of research is not only timely but also essential for safeguarding sensitive data, maintaining privacy, and ensuring the security of digital infrastructure.
 
-2.	Formulate a Research Question:
+2.	Research Question:
    
 How can machine learning algorithms be leveraged to develop an effective threat detection system that enhances cybersecurity in real-time?
 
-3.	Develop Hypotheses (up to 3):
+3.	Hypotheses:
 
 Hypothesis 1: 
 
