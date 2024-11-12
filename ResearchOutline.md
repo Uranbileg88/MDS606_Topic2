@@ -1,6 +1,4 @@
-1.	Research Topic:
-   
-Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber-attacks.
+1.	Research Topic: Impact of AI on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber-attacks.
 
 Cybersecurity has become a critical concern in today's increasingly digital world, as the frequency and sophistication of cyberattacks continue to rise. The need for real-time, adaptive security systems capable of detecting and responding to evolving threats is more urgent than ever. Traditional methods, such as signature-based detection, often struggle to identify novel or complex attacks, creating a significant gap in defense mechanisms. This is where Artificial Intelligence (AI) and Machine Learning (ML) can play a transformative role.
 
