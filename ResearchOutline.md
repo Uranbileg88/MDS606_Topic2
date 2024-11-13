@@ -44,6 +44,12 @@ NSL-KDD: A refined version of the KDD Cup dataset, it aims to address some of th
    
 Briefly outline the data analysis methods or techniques you plan to use in your project (e.g., statistical analysis, machine learning models, etc.). Explain how these methods will help address your research question.
 
+We are proposing sequential model. In  the research strategy: Quantitative research work collection and analysis of numerical data
+to test hypotheses and identify patterns or relationships between variables. Quantitative
+research often employs structured instruments such as surveys, experiments, or statistical
+analysis to gather and analyze data.
+
+
 
 6.	Outline Expected Outcomes:
 Describe the anticipated findings of your research project. Explain how these outcomes relate to your hypotheses and research question, and discuss any potential contributions to the field.
