@@ -58,14 +58,24 @@ Secure data-sharing agreements, ensuring proper anonymization and data privacy p
 
 5.	Data Analysis Approach:
    
-Briefly outline the data analysis methods or techniques you plan to use in your project (e.g., statistical analysis, machine learning models, etc.). Explain how these methods will help address your research question.
+In this research, a sequential model will be employed, leveraging machine learning techniques to enhance real-time threat detection in cybersecurity. The sequential model is chosen for its ability to process data in an ordered sequence, which is crucial for cybersecurity tasks that require time-based pattern recognition, such as detecting attack sequences or identifying evolving threats (Goodfellow, Bengio, & Courville, 2016). The analysis will involve key stages: data preprocessing, model selection, evaluation, and statistical analysis.
 
-We are proposing sequential model. In  the research strategy: Quantitative research work collection and analysis of numerical data
-to test hypotheses and identify patterns or relationships between variables. Quantitative
-research often employs structured instruments such as surveys, experiments, or statistical
-analysis to gather and analyze data.
+Data preprocessing will be a fundamental step. Raw cybersecurity data often contains noise and inconsistencies that need to be cleaned. This process will involve handling missing values, normalizing or standardizing features, encoding categorical variables, and removing redundant or irrelevant data. Dimensionality reduction techniques, such as Principal Component Analysis (PCA) and Recursive Feature Elimination (RFE), will be used to retain the most relevant features for model training (Chandrashekar & Sahin, 2014). The dataset will primarily consist of network log data, which may include information such as IP addresses, ports, and timestamps, rather than latitude or longitude data.
 
+For model selection, supervised machine learning algorithms like Random Forest, Support Vector Machines (SVM), and Decision Trees will be used for classification tasks. Unsupervised models such as K-Means or DBSCAN will be applied to detect anomalous patterns in the data. Additionally, deep learning models, including Long Short-Term Memory (LSTM) networks, will be tested for their ability to capture sequential attack patterns (Goodfellow et al., 2016). The sequential nature of LSTM networks makes them ideal for modeling time-dependent data, which is common in real-time cybersecurity.
 
+The evaluation of these models will focus on performance metrics such as accuracy, precision, recall, F1-score, and the ROC curve. Statistical analysis, including hypothesis testing (e.g., t-tests), will be used to compare the performance of machine learning-based systems with traditional signature-based methods (Sharma, 2019).
 
 6.	Outline Expected Outcomes:
-Describe the anticipated findings of your research project. Explain how these outcomes relate to your hypotheses and research question, and discuss any potential contributions to the field.
+The expected outcomes of this research include improvements in detection accuracy, response time, and system adaptability. Machine learning models, particularly those using sequential data such as Long Short-Term Memory (LSTM) networks, are expected to outperform traditional signature-based detection systems in identifying both known and novel threats, supporting Hypothesis 1. Additionally, the use of real-time learning and adaptation will reduce detection-to-response times, aligning with Hypothesis 2.
+
+Continuous training of machine learning models is expected to enhance their adaptability over time, allowing them to better identify evolving threats. This outcome supports Hypothesis 3, demonstrating that continuous model updates will lead to improved performance in detecting new, sophisticated threats. This research will contribute to the field by demonstrating the potential of AI-powered systems to enhance cybersecurity, offering insights into the development of adaptive, scalable, and efficient security solutions.
+
+
+References:
+
+Chandrashekar, G., & Sahin, F. (2014). A survey on feature selection methods. Computers & Electrical Engineering, 40(1), 16-28. https://doi.org/10.1016/j.compeleceng.2013.11.024
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.
+
+Sharma, P. (2019). Statistical analysis techniques for evaluating machine learning models. Journal of Machine Learning Applications, 23(4), 512-530. https://doi.org/10.1016/j.jml.2019.04.006
