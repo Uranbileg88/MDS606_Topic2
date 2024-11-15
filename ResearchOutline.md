@@ -4,7 +4,7 @@ Cybersecurity has become a critical concern in today's increasingly digital worl
 
 The integration of AI and ML into cybersecurity represents a promising frontier, offering the potential to not only detect known threats but also anticipate and identify previously unseen risks. By analyzing large volumes of data in real-time, AI and ML can uncover subtle patterns and anomalies that may indicate a breach or cyberattack, often before any significant damage occurs. This research interests me because it explores how these cutting-edge technologies can enhance real-time threat detection, making security systems more adaptive, efficient, and capable of defending against a dynamic and ever-changing threat landscape.
 
-Through this study, the goal is to contribute to the development of more resilient cybersecurity systems that leverage AI and ML to provide proactive, continuous protection against the growing and increasingly complex array of cyber threats. This area of research is not only timely but also essential for safeguarding sensitive data, maintaining privacy, and ensuring the security of digital infrastructure.
+This research topic aims to address these challenges by developing and evaluating a machine learning-based threat detection system specifically focused on real-time detection. The system will be tested for its ability to handle dynamic and evolving cyber threats, offering a more adaptive and scalable approach to cybersecurity. By optimizing ML models, this study aims to demonstrate that machine learning can significantly enhance the effectiveness of real-time cybersecurity systems, improving their ability to protect against a wide range of emerging threats.
 
 2.	Research Question:
    
