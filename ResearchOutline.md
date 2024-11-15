@@ -35,7 +35,13 @@ For this research on machine learning-based threat detection in cybersecurity, s
 
 1. Downloading from Public Repositories:
 
-Kaggle and UCI: Download publicly available datasets from platforms like Kaggle and UCI, which offer both labeled and unlabeled data suitable for machine learning tasks in cybersecurity.
+Kaggle is an online platform that provides a wide variety of datasets, particularly focused on data science and machine learning challenges, including cybersecurity tasks.
+Link: https://www.kaggle.com/datasets
+
+UCI Machine Learning Repository is one of the oldest and most well-known repositories of datasets, hosted by the University of California, Irvine. It has been a go-to source for machine learning practitioners and researchers for decades. UCI offers a wide range of datasets for machine learning, including foundational datasets for cybersecurity research.
+Link: https://archive.ics.uci.edu/ml/index.php
+
+Download publicly available datasets from platforms like Kaggle and UCI, which offer both labeled and unlabeled data suitable for machine learning tasks in cybersecurity.
 
 Method: 
 
