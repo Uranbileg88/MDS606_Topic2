@@ -24,20 +24,32 @@ This can be tested by measuring the time between threat detection and response f
 
 Hypothesis 3: 
 
-Real-time machine learning-based threat detection systems will be more adaptive to evolving cyber threats, improving their detection capabilities over time with continuous model training and data input.
-This hypothesis can be evaluated by testing the system's ability to detect new, previously unseen threats and assessing how performance improves as the model is retrained on updated datasets, reflecting evolving attack methods and tactics.
+Continuous training of machine learning models with new data and evolving threat patterns will enhance the adaptability and effectiveness of cybersecurity systems in detecting novel or sophisticated cyber threats over time.
+This hypothesis can be tested using statistical tests to analyze if the ongoing training model performs better than the baseline in terms of detection, adaptability, and response time.
    
 
 4.	Identify Data Sources and Collection Methods:
 
 Sources of Data
-For this research on machine learning-based threat detection in cybersecurity, several sources of data will be used to train, test, and evaluate the proposed models. These data sources will include publicly available datasets, proprietary data, and potentially data collected specifically for the study.
+For this research on machine learning-based threat detection in cybersecurity, several sources of data will be used to train, test, and evaluate the proposed models. These data sources will include publicly available datasets and proprietary data (Potential Collaboration).
 
-KDD Cup 1999 and NSL-KDD are public datasets that can be directly accessed and downloaded from their respective repositories or research institutions’ websites. These datasets are well-documented, with predefined labels for various types of attacks, and can be used to train and evaluate initial machine learning models.
+1. Downloading from Public Repositories:
 
-KDD Cup 1999 Data: This is a widely used dataset in cybersecurity research, containing simulated network traffic data with labels for different types of attacks (DoS, Probe, U2R, and R2L). It will serve as a benchmark for evaluating machine learning models for threat detection.
+Kaggle and UCI: Download publicly available datasets from platforms like Kaggle and UCI, which offer both labeled and unlabeled data suitable for machine learning tasks in cybersecurity.
 
-NSL-KDD: A refined version of the KDD Cup dataset, it aims to address some of the inherent issues of the original, making it suitable for training machine learning models while avoiding biases from duplicate records.
+Method: 
+
+Register on the platform, download relevant datasets, and preprocess them for model training and evaluation.
+
+2. Collaborating with Cybersecurity Companies:
+
+Data Sharing Agreements:
+
+Partner with cybersecurity firms or academic institutions to gain access to proprietary datasets, network logs, and threat intelligence. These datasets may include real-time attack data, logs from security appliances (firewalls, IDS), or attack simulation data.
+
+Method: 
+
+Secure data-sharing agreements, ensuring proper anonymization and data privacy protocols, and integrate the data into the model for testing and training.
 
 
 5.	Data Analysis Approach:
