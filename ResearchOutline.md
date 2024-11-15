@@ -43,9 +43,7 @@ Register on the platform, download relevant datasets, and preprocess them for mo
 
 2. Collaborating with Cybersecurity Companies:
 
-Data Sharing Agreements:
-
-Partner with cybersecurity firms or academic institutions to gain access to proprietary datasets, network logs, and threat intelligence. These datasets may include real-time attack data, logs from security appliances (firewalls, IDS), or attack simulation data.
+Data Sharing Agreements: Partner with cybersecurity firms or academic institutions to gain access to proprietary datasets, network logs, and threat intelligence. These datasets may include real-time attack data, logs from security appliances (firewalls, IDS), or attack simulation data.
 
 Method: 
 
